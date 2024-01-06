@@ -1,5 +1,5 @@
 # WikiLeaksBert
- A funny test project written using Jupyter notebook and BertForQuestionAnswering. 
+ A fun test project written using Jupyter notebook and BertForQuestionAnswering. 
  
 The purpose is for the users to input the controvertial topic they want to ask about, the code then scrapes wikileaks for documents that are relevant to the topic. 
 
